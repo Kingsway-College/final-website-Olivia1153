@@ -1,0 +1,11 @@
+body{
+    background-image:url(images/Screenshot\ 2025-02-14\ 12.02.46.png) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment:  fixed;
+}
+header{
+    background-color: rgb(192, 55, 192);text-align: center;
+    font-size: large}
+    
